@@ -30,7 +30,7 @@ namespace spinitron\dynamicAr;
  *
  * @package spinitron\dynamicAr
  */
-class ValueExpression extends \yii\base\Object
+class ValueExpression extends \yii\base\BaseObject
 {
     /**
      * @var mixed The dynamic attribute value.

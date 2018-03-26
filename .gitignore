@@ -1,6 +1,7 @@
 /.idea
 /cache
 /vendor
+/composer.lock
 jssearch.index.js
 errors.txt
 /tests/arraysubset.php

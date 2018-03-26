@@ -10,7 +10,7 @@ namespace spinitron\dynamicAr\encoder;
 
 use spinitron\dynamicAr\DynamicActiveRecord;
 
-abstract class BaseEncoder extends \yii\base\Object implements EncoderInterface
+abstract class BaseEncoder extends \yii\base\BaseObject implements EncoderInterface
 {
     /**
      * Prefix for base64 encoded dynamic attribute values
